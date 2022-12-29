@@ -11,13 +11,14 @@ Neste projeto criei uma página HMTL com uma lista completa e detalhada de Poké
 
 ## Layout Mobile 
 
-<p align="left"><a href="https://user-images.githubusercontent.com/114461353/209862999-fb090dcb-aff6-415b-a628-6c4e05c581c1.jpg"><img src="https://user-images.githubusercontent.com/114461353/209862999-fb090dcb-aff6-415b-a628-6c4e05c581c1.jpg" alt="p1" width=300"/><a href="https://user-images.githubusercontent.com/114461353/209864437-53115086-4400-433b-b5bd-0f2ee6384b25.jpg"><img src="https://user-images.githubusercontent.com/114461353/209864437-53115086-4400-433b-b5bd-0f2ee6384b25.jpg" alt="p1" width=300"/></p>
+https://user-images.githubusercontent.com/114461353/209892239-ea45d983-c21e-44d5-ad6e-8a0741eec2fb.mp4
 
 
 
 ## Layout web
 
-https://user-images.githubusercontent.com/114461353/209871526-c16db136-24bc-41fb-a820-42f544b6787c.mp4
+https://user-images.githubusercontent.com/114461353/209892255-0ffdef31-c2fb-4ac1-b99e-edb51e1b08be.mp4
+
 
 
 

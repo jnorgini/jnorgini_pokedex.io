@@ -1,4 +1,4 @@
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jnorgini/pokedex.io/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jnorgini/jnorgini_pokedex.io/blob/master/LICENSE) 
 
 <h1 align="center"><a href="https://web.dio.me/track/orange-tech/"><img src="https://i.pinimg.com/originals/fa/46/78/fa4678efd7772966346e3a67a76f493e.png" alt="Logo Pokémon" width=500""/></a> <br /> </h1> 
 

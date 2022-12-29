@@ -1,0 +1,44 @@
+
+* {
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  
+  body {
+    background-color: #f6f8fc;
+  }
+  
+  .content {
+    width: 100%;
+    height: 100%;
+    padding: 0.5rem 0.5rem;
+    margin: 0;
+    background: linear-gradient(113deg, #ff9900 0%, #000000 50%, rgb(24 24 24) 100%);
+    border-radius: 1rem;
+  }
+  
+  .content h1 {
+    font-family: "SnackerComic_PerosnalUseOnly";
+    font-size: 4rem;
+    margin: 0;
+    padding: 0.5rem 0.5rem;
+    text-align: center;
+    color: #000;
+  }
+  .content h2 {
+    font-size: 0.9rem;
+    padding: 0.5rem 0.5rem;
+    margin: 0;
+    text-align: center;
+    color: #000;
+  }
+  
+  @media screen and (min-width: 992px) {
+    .content {
+        max-width: 992px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+  }
